@@ -1,9 +1,0 @@
-Challenge #2
-
-We need to write code that will query the meta data of an instance within AWS or Azure or GCP and provide a json formatted output. The choice of language and implementation is up to you.
-
-1 - Configure AWS CLI  with access key and secret key so that you have access to AWS account or with SSO.
-2 - Open the script - EC2_metadata_json
-3 - Set the path where you want to save the json file
-4 - Run the script - EC2_metadata_json
-5 - Check the output result - us-east-1.json. This region I have created my EC2 instances. 
